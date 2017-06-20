@@ -32,7 +32,7 @@ export default class Task extends Component {
           onClick={this.toggleChecked.bind(this)}
         />
       <span className="text">{this.props.task.text}&nbsp;&nbsp;</span>
-          <button className="btn text-right delete" onClick={this.deleteThisTask.bind(this)}>
+          <button className=" delete" onClick={this.deleteThisTask.bind(this)}>
             &times;
           </button>
         </label>
