@@ -1,1 +1,1 @@
-#Simple Todo App using Meteor Js
+# Simple Todo App using Meteor and React
